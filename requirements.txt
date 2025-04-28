@@ -1,0 +1,8 @@
+gradio
+torch
+imageio
+scikit-image
+pyyaml
+numpy
+opencv-python
+ffmpeg-python
