@@ -7,3 +7,4 @@ imageio-ffmpeg==0.6.0
 torch==2.7.0
 ffmpeg-python==0.2.0
 scikit-image
+tqdm
