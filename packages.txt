@@ -1,0 +1,1 @@
+echo -e "libgl1-mesa-glx\nlibglib2.0-0" > packages.txt
