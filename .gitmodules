@@ -1,0 +1,6 @@
+[submodule "demo"]
+	path = demo
+	url = https://github.com/graphemecluster/first-order-model-demo
+[submodule "first-order-model"]
+	path = first-order-model
+	url = https://github.com/AliaksandrSiarohin/first-order-model
